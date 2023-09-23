@@ -1,6 +1,6 @@
 {
-	"author": "Sai Nikhil Vaddhi",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Sai Nikhil Vaddhi",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
