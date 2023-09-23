@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Sai Nikhil Vaddhi",
 	"description":"The idea that will impress npm",
+	"keywords":["descriptive","freecodecamp","hello"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
