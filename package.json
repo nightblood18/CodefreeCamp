@@ -4,7 +4,7 @@
 	"description":"The idea that will impress npm",
 	"keywords":["descriptive","freecodecamp","hello"],
 	"license":"UTD",
-	"version":"1.1.1.1",
+	"version":"1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
